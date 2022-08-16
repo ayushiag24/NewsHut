@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "https://www.theguardian.com/profile/luke-mclaughlin,https://www.theguardian.com/profile/williamfotheringham",
+            "title": "Tour de France 2022: Vingegaard set for triumph on final stage in Paris – live! - The Guardian",
+            "description": "Rolling report as this year’s race enjoys its traditional conclusion on the Champs Elysées. Join Luke McLaughlin",
+            "url": "https://www.theguardian.com/sport/live/2022/jul/24/tour-de-france-stage-21-paris-la-defense-champs-elysees-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/973f66049b749678728f20539419677053b91a25/517_431_4665_2799/master/4665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=896dffe3c2661c7c43ea0a0ce2ea2846",
+            "publishedAt": "2022-07-24T16:41:36Z",
+            "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\n43km to go: Bisseggers monster attack has helped a group of four to get away and they have five seconds on the frantically chasing b… [+15557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Liz Cheney accuses Trump of historic misconduct - CNN",
+            "description": "Rep. Liz Cheney (R-WY), the Jan. 6 panel co-chair told CNN she believes Trump has engaged in \"the most serious misconduct of any president in the history of ...",
+            "url": "https://www.youtube.com/watch?v=yolT0vEr8nU",
+            "urlToImage": "https://i.ytimg.com/vi/yolT0vEr8nU/hqdefault.jpg",
+            "publishedAt": "2022-07-24T15:42:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Cheney: Jan. 6 panel prepared to consider subpoena for Ginni Thomas - POLITICO",
+            "description": "“We hope she'll agree to come in voluntarily,\" Rep. Liz Cheney said.",
+            "url": "https://www.politico.com/news/2022/07/24/cheney-jan-6-subpoena-ginni-thomas-00047593",
+            "urlToImage": "https://static.politico.com/86/c4/d3fc3ca34ea2904e2ec18ca51025/capitol-riot-investigation-93012.jpg",
+            "publishedAt": "2022-07-24T15:36:02Z",
+            "content": "A lawyer for Thomas previously said the conservative activist would not appear voluntarily before the committee. Thomas role in efforts to overturn the election made headlines in March when the Jan. … [+3925 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Junko Ogura and Hira Humayun, CNN",
+            "title": "Japan's Sakurajima volcano erupts, prompting highest alert - CNN",
+            "description": "Japan's Sakurajima volcano, located on the island of Kyushu, erupted on Sunday, prompting evacuations in the region.",
+            "url": "https://www.cnn.com/2022/07/24/asia/japan-sakurajima-volcano-eruption-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220724101151-01-sakurajima-volcano-eruption-japan-0724-super-tease.jpg",
+            "publishedAt": "2022-07-24T15:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Three dead in graduation shooting at top Philippines university - Reuters.com",
+            "description": "Three people died in a shooting at a university graduation ceremony in the Philippines' capital region on Sunday, including a former mayor from the volatile south of the country, police said.",
+            "url": "https://www.reuters.com/world/asia-pacific/philippines-police-reports-two-deaths-university-graduation-shooting-2022-07-24/",
+            "urlToImage": "https://www.reuters.com/resizer/ynldqElZqqUdlMjVF2VTTplUzpI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ST5OWAFPDJJ2JEZRKS2X6342LI.jpg",
+            "publishedAt": "2022-07-24T14:44:00Z",
+            "content": "MANILA, July 24 (Reuters) - Three people died in a shooting at a university graduation ceremony in the Philippines' capital region on Sunday, including a former mayor from the volatile south of the c… [+2068 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Judith Graham",
+            "title": "If you're older and have prediabetes, try to eat better and not worry - The Washington Post",
+            "description": "Two recent reports about the condition in the elderly population are spurring interest in the issue.",
+            "url": "https://www.washingtonpost.com/health/2022/07/24/seniors-prediabetes-eating-well/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HMCGVJADUEI63C7LFNHEQGYVAA.jpg&w=1440",
+            "publishedAt": "2022-07-24T14:38:18Z",
+            "content": "Comment on this story\r\nMore than 26 million people 65 and older have prediabetes, according to the Centers for Disease Control and Prevention. How concerned should they be about progressing to diabet… [+8379 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Texas dog owner arrested after deadly mauling of 71-year-old man - Fox News",
+            "description": "The owner of seven dogs – all pit bull mixes – that mauled a 71-year-old Texas man to death on his way to his neighborhood store this month has been arrested and charged.",
+            "url": "https://www.foxnews.com/us/texas-dog-owner-arrested-deadly-mauling-man",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/cartwright-mugshot.jpg",
+            "publishedAt": "2022-07-24T14:37:33Z",
+            "content": "Texas authorities have identified and arrested the owner of seven dogs that reportedly mauled a 71-year-old man to death while he was walking to his neighborhood store earlier this month. \r\nThe Fort … [+1742 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Wildfire near Yosemite National Park explodes in size, forces thousands of evacuations - CBS News",
+            "description": "The Oak Fire has grown to 14,281 acres with no containment as of Sunday morning.",
+            "url": "https://www.cbsnews.com/news/oak-fire-yosemite-national-park-california-evacuation-orders/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/24/df4e353b-f60a-497f-ab90-d102e5afb4f7/thumbnail/1200x630/be1505d8113d6d45219e62c41bbe90f4/gettyimages-1410533375.jpg",
+            "publishedAt": "2022-07-24T14:25:00Z",
+            "content": "A fast-moving brush fire near Yosemite National Park has exploded in size into one of California's largest wildfires of the year, prompting evacuation orders for thousands of people and shutting off … [+3702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Yankees trade deadline preview: Biggest needs, potential targets, top trade chips ahead of Aug. 2 - CBS Sports",
+            "description": "The Yankees are a postseason lock, though they still have some holes to patch at the deadline",
+            "url": "https://www.cbssports.com/mlb/news/yankees-trade-deadline-preview-biggest-needs-potential-targets-top-trade-chips-ahead-of-aug-2/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/24/bf03a08a-6829-4509-9834-36293f515aa5/thumbnail/1200x675/1742f4fa84668f82e6a4b368ff69e793/soto-cole-getty.png",
+            "publishedAt": "2022-07-24T14:08:16Z",
+            "content": "For much of the season the New York Yankees have been flirting with a pace that would challenge the single-season record of 116 wins. Even if they don't get to 116 wins, and even if they don't finish… [+10812 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Fighting"
+            },
+            "author": "MMA Fighting Newswire",
+            "title": "Tom Aspinall shares beer with Curtis Blaydes after UFC London, thanks medics after ‘freak injury’ - MMA Fighting",
+            "description": "Tom Aspinall released several statements in the wake of his fight-ending injury at UFC London.",
+            "url": "https://www.mmafighting.com/2022/7/24/23276246/tom-aspinall-shares-beer-with-curtis-blaydes-after-ufc-london-thanks-medics-after-freak-injury",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/J6edWiKNGTQPGBoyJNNMEUNBZO0=/0x86:1190x709/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23896402/Screen_Shot_2022_07_24_at_6.23.27_AM.png",
+            "publishedAt": "2022-07-24T14:00:00Z",
+            "content": "Tom Aspinalls immediate future remains unknown after his brutal fighting-ending injury at UFC London. But he is taking the setback in stride and vows to come back stronger after his injury TKO loss t… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine works to resume grain exports, flags Russian strikes as risk - Reuters.com",
+            "description": "Ukraine pressed ahead on Sunday with efforts to restart grain exports from its Black Sea ports under a deal aimed at easing global food shortages but warned deliveries would suffer if a Russian missile strike on Odesa was a sign of more to come.",
+            "url": "https://www.reuters.com/world/europe/outraged-by-strike-odesa-ukraine-still-prepares-resume-grain-exports-2022-07-24/",
+            "urlToImage": "https://www.reuters.com/resizer/k8qA_-hDZ8e2g4r12HvluDjSg2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RISXABPLYFJOBF4F7MUBAI4BCY.jpg",
+            "publishedAt": "2022-07-24T13:59:00Z",
+            "content": "KYIV, July 24 (Reuters) - Ukraine pressed ahead on Sunday with efforts to restart grain exports from its Black Sea ports under a deal aimed at easing global food shortages but warned deliveries would… [+5107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "OlympicTalk",
+            "title": "U.S. pulls off upset, gets upset in 4x100m relays at track worlds - Home of the Olympic Channel",
+            "description": "The U.S. women's 4x100m pulled off the upset. The U.S. men's 4x100m got upset at the world track and field championships in Eugene.",
+            "url": "https://olympics.nbcsports.com/2022/07/24/track-and-field-world-championships-relays-usa/",
+            "urlToImage": "https://olympics.nbcsports.com/wp-content/uploads/sites/10/2022/07/GettyImages-1410552635-e1658630748314.jpg",
+            "publishedAt": "2022-07-24T13:18:00Z",
+            "content": "The U.S. womens 4x100m pulled off the upset. The U.S. mens 4x100m got upset.\r\nThe penultimate day of the world track and field championships produced surprises in the final two races on Saturday nigh… [+4271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sean Keane",
+            "title": "Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details - CNET",
+            "description": "San Diego Comic-Con brought news that Charlie Cox returns as the Devil of Hell's Kitchen in 2024's Daredevil: Born Again and we're getting two new Avengers movies in 2025.",
+            "url": "https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f139e1ae57e1ab449d10e85edbf7367004913254/2016/02/25/a0136799-9e60-499c-9195-d68c4a8cd77e/daredevil3.jpg?auto=webp&fit=bounds&height=630&width=1200",
+            "publishedAt": "2022-07-24T13:13:51Z",
+            "content": "The next two years of the Marvel Cinematic Universe were fully revealed at San Diego Comic-Con on Saturday, with a few tantalizing hints about what lies beyond. Phase 5 of the MCU kicks off with Ant-… [+1946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "GM is far behind Tesla in electric vehicle sales. CEO Mary Barra has bet the company that will change - CNBC",
+            "description": "CEO Mary Barra is betting that the electric vehicle platform GM unveiled five years ago will soon help the legacy automaker top its rivals on electric vehicles.",
+            "url": "https://www.cnbc.com/2022/07/24/why-ceo-mary-barra-is-confident-gm-can-beat-tesla-in-electric-vehicles.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106954192-1633629584895-mary.jpg?v=1657132631&w=1920&h=1080",
+            "publishedAt": "2022-07-24T12:00:01Z",
+            "content": "GM Chair and CEO Mary Barra addresses investors Oct. 6, 2021 at the GM Tech Center in Warren, Michigan.\r\nDETROIT In September 2017, General Motors CEO Mary Barra and her top executives visited the au… [+12667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Israeli forces kill two Palestinian fighters in West Bank gun battle - The Guardian",
+            "description": "Palestinian authorities confirm death of two men and say six more were wounded during clash in Nablus",
+            "url": "https://amp.theguardian.com/world/2022/jul/24/israeli-forces-palestinian-fighters-west-bank",
+            "urlToImage": "https://i.guim.co.uk/img/media/5705188ffbf642c0467e28361ee6f1dd89b128a0/0_93_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cf259c27bfc8c132e5a0603186cf310",
+            "publishedAt": "2022-07-24T11:46:00Z",
+            "content": "Israeli forces have killed two Palestinian fighters in a pre-dawn clash in the occupied West Bank and attacked a fishing boat off the Gaza Strip coast that was accused of smuggling in Hamas supplies … [+2341 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Hardika Singh",
+            "title": "Gold Prices Hit by Renewed Bets on Higher Yields and Stronger Dollar - The Wall Street Journal",
+            "description": "The precious metal is on track for its fourth-consecutive monthly price decline, despite the surge in inflation.",
+            "url": "https://www.wsj.com/articles/gold-prices-hit-by-renewed-bets-on-higher-yields-and-stronger-dollar-11658602577",
+            "urlToImage": "https://images.wsj.net/im-585573/social",
+            "publishedAt": "2022-07-24T11:30:00Z",
+            "content": "Inflation keeps surging to multiyear highs, yet gold cant catch a break.The most actively traded gold futures contract has fallen $79.90, or 4.4%, to $1,727.40 troy ounce in July, on pace for its fou… [+367 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta, Livia Borghese and Cecilia Armstrong, CNN",
+            "title": "Pope Francis visiting Canada to apologize for Indigenous abuse in Catholic residential schools - CNN",
+            "description": "Pope Francis departed Rome on Sunday for a week-long trip to Edmonton, Canada, where he's set to apologize for the Catholic Church's role in the abuse of Canadian Indigenous children in residential schools.",
+            "url": "https://www.cnn.com/2022/07/24/americas/pope-francis-canada-visit-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220704082714-02-pope-francis-070422-super-tease.jpg",
+            "publishedAt": "2022-07-24T10:07:00Z",
+            "content": "(CNN)Pope Francis departed Rome on Sunday for a week-long trip to Edmonton, Canada, where he's set to apologize for the Catholic Church's role in the abuse of Canadian Indigenous children in resident… [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Alice Gorman",
+            "title": "Will NASA rename the James Webb Space Telescope? A space expert explains the Lavender Scare controversy. - Space.com",
+            "description": "In the excitement of the observatory's first images, it's easy to forget that the James Webb Space Telescope has been the subject of controversy.",
+            "url": "https://www.space.com/james-webb-space-telescope-lavender-scare-controversy",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ax7BuiCdDqME4LqqzY3XUR-1200-80.jpg",
+            "publishedAt": "2022-07-24T10:00:14Z",
+            "content": "This article was originally published at The Conversation. (opens in new tab) The publication contributed the article to Space.com's Expert Voices: Op-Ed &amp; Insights (opens in new tab).\r\nAlice Gor… [+7599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Anton Troianovski, Abdi Latif Dahir",
+            "title": "Russia-Ukraine War News: Live Updates - The New York Times",
+            "description": "Russia’s top diplomat will visit four countries in Africa after a grain deal was brokered that could ease a global food shortage. But Russian strikes in Ukraine raised questions about the agreement’s viability.",
+            "url": "https://www.nytimes.com/live/2022/07/24/world/ukraine-russia-war",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/24/world/24UKR-BR-PROMO-7AM-ET/24UKR-BR-PROMO-7AM-ET-facebookJumbo.jpg",
+            "publishedAt": "2022-07-24T09:52:52Z",
+            "content": "In this image provided by his family, Maksym Butkevych is shown between his parents, Yevheniia and Oleksandr. Mr. Butkevych was captured in June and is now a prisoner of war held by Russia.Credit...v… [+4092 chars]"
+        }
+    ]
+}
